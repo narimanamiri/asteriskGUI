@@ -1,4 +1,4 @@
-Sure! Here's an example of how you can create a GUI for Asterisk using JavaScript and the Vue.js framework:
+Here's an example of how you can create a GUI for Asterisk using JavaScript and the Vue.js framework:
 
 ```html
 <!DOCTYPE html>
